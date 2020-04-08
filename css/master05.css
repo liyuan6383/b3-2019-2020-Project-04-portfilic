@@ -18,7 +18,7 @@ header {
   min-height: 100vh;
   padding: 1em;
 
-  background-color: #800000;
+  background-color: 	#A80000;
   color: white;
 /* display en flexbox pour centrer */
   display: flex;
@@ -75,7 +75,7 @@ section {
 
 #fable02 {
   min-height: 60vh;
-  background:  url('../images/42.jpg') top center no-repeat;
+  background:  url('../images/67.jpg') top center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   overflow: hidden;
