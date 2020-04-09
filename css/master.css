@@ -41,15 +41,27 @@ p {
 
 .mine {
   width: 50%;
-  font-size: 2em;
-  text-align: center;
-  font-family: 'Harmattan', sans-serif;
-  opacity: 0.9;
-   position: absolute;  bottom: 0;  background: #e5e5e5;
-   color: #a9a9a9;
+  font-size: 1em;
+  text-align:left;
+  font-family: Roboto, sans-serif;
+  font-family:  'Poiret One', cursive;
+  opacity: 0.7;
+   position: absolute;  bottom: 0;  background: WHITE;
+   color:	BLACK;
  display: none;
 
 }
+
+#contacts{
+
+  font-size: 1em;
+  text-align:center;
+  font-family:   'Indie Flower', cursive;
+  background-color:
+
+
+}
+
  .img-group:hover .mine {
    display: block;
     width: 100%;
